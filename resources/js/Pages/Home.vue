@@ -634,9 +634,9 @@
 
         <div class="box">
             <h3>contact info</h3>
-            <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-            <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-            <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
+            <a href="#"> <i class="fas fa-phone"></i> +xxx xxxx xxx </a>
+            <a href="#"> <i class="fas fa-phone"></i> +xxx xxx xxxx </a>
+            <a href="#"> <i class="fas fa-envelope"></i> example@example.com </a>
             <img src="image/worldmap.png" class="map" alt="">
         </div>
         
@@ -650,7 +650,7 @@
         <a href="#" class="fab fa-pinterest"></a>
     </div>
 
-    <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+    <div class="credit"> created by <span>Tulsiram Kushwah</span> | all rights reserved! </div>
 
 </section>
 
